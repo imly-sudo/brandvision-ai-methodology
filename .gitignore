@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Working / temp
+*.log
+*.tmp
+*.bak
+
+# Local secrets / configs
+.env
+.env.local
+config.local.*
+
+# Internal notes (not for public repo)
+INTERNAL_*.md
+*_PRIVATE.md
